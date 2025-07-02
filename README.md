@@ -12,4 +12,4 @@ Built using;
 
 ## Licensing
 
-This project is under no MIT.
+This project is under MIT.
